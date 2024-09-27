@@ -8,4 +8,4 @@ command to FilePath pv-offgrid.md5 :
 
 command to FilePath dc-ac-offgrid.md5 :
 
-(Get-FileHash -Path dc-ac-offgrid.ota.bin -Algorithm md5).Hash.ToLower() | Out-File -FilePath dc-ac-offgrid.md5 -Encoding ASCI
+(Get-FileHash -Path dc-ac-offgrid.ota.bin -Algorithm md5).Hash.ToLower() | Out-File -FilePath dc-ac-offgrid.md5 -Encoding ASCII
