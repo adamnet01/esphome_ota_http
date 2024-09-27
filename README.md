@@ -1,7 +1,9 @@
 Remote update of esp32 board in esphome via http request.
 
-The ota.bin file should be generated in esphome. 
+The ota.bin file should be generated in esphome.
+
 Then you should create .md5 file in PowerShell and upload to the server, e.g. your github project.
+
 In the created software button on esp run updates from http.
 
 
