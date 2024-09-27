@@ -17,8 +17,8 @@ button:
     on_press:
       then:
        - ota.http_request.flash:
-           md5_url: https://raw.githubusercontent.com/adamnet01/esphome_offgrid/refs/heads/main/dc-ac-offgrid.md5
-           url: https://raw.githubusercontent.com/adamnet01/esphome_offgrid/refs/heads/main/dc-ac-offgrid.ota.bin
+           md5_url: https://raw.githubusercontent.com/adamnet01/esphome_ota_http/refs/heads/main/dc-ac-offgrid.md5
+           url: https://raw.githubusercontent.com/adamnet01/esphome_ota_http/refs/heads/main/dc-ac-offgrid.ota.bin
 
 
 
