@@ -1,6 +1,6 @@
 Remote update of esp32 board in esphome via http request.
 
-Http update useful when the esp module is not in the same local network as the HA server.
+Http update useful when the esp32 board is not in the same local network as the HA server.
 
 The .ota.bin file should be generated in esphome.
 
