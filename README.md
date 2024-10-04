@@ -9,6 +9,8 @@ Then you should create .md5 file in PowerShell and upload to the server, e.g. yo
 In the created software button on esp run updates from http.
 
 
+https://esphome.io/components/ota/http_request
+
 #########################################
 
 Windows PowerShell
